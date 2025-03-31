@@ -1,3 +1,4 @@
 log.webmaxlogger.net
 *.liverecover.io
 liverecover.io
+app.licerecover.io
