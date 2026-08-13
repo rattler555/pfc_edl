@@ -10,4 +10,4 @@ createproductevo.com
 whollyballs.com
 edevasnacks.com
 sealixr.com/
-*.projectpfc.com
+leads.projectpfc.com
